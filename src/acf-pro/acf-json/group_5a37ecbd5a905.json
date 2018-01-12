@@ -1,0 +1,50 @@
+{
+    "key": "group_5a37ecbd5a905",
+    "title": "Featured Projects",
+    "fields": [
+        {
+            "key": "field_5a37ecc8c52d7",
+            "label": "",
+            "name": "featured_projects",
+            "type": "relationship",
+            "instructions": "Select projects to show on the Featured Projects page.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "post_type": [
+                "project"
+            ],
+            "taxonomy": [],
+            "filters": [
+                "search",
+                "taxonomy"
+            ],
+            "elements": "",
+            "min": "",
+            "max": "",
+            "return_format": "id"
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "page",
+                "operator": "==",
+                "value": "184"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1513625400
+}
